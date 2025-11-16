@@ -1,7 +1,7 @@
 # 📊 Multi-Asset Volatility & Correlation Analysis  
 ### Bitcoin (BTC), Ethereum (ETH), NSE Index, TSX Composite (XIC)
 
-[![Open In Colab](https:///github.com/Souvik2730/Multi-Asset-Volatility-Correlation-Analysis/blob/main/Multi_Asset%20Volatility.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Souvik2730/Multi-Asset-Volatility-Correlation-Analysis/blob/main/Multi_Asset%20Volatility.ipynb)
 
 This project analyzes the price behavior, volatility patterns, return distributions, and correlations of major cryptocurrencies (BTC, ETH) against traditional equity indices (NSE & XIC). It highlights how different asset classes behave under varying market conditions and what this means for risk, diversification, and market behavior.
 
@@ -131,9 +131,12 @@ scipy
 
 ---
 
-## 👤 Author
+## 🙋 Author
 **Souvik Ghorui**  
-*([Add GitHub] (https://github.com/Souvik2730)/[LinkedIn profile here](https://www.linkedin.com/in/souvik-ghorui273/))*
+📧 Email: ghoruisouvik7@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/souvik-ghorui273](https://linkedin.com/in/souvik-ghorui273)  
+💻 GitHub: [github.com/Souvik2730](https://github.com/Souvik2730)  
+
 
 
 
