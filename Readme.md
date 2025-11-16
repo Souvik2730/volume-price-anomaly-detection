@@ -1,6 +1,8 @@
 # 📊 Multi-Asset Volatility & Correlation Analysis  
 ### Bitcoin (BTC), Ethereum (ETH), NSE Index, TSX Composite (XIC)
 
+[![Open In Colab](https:///github.com/Souvik2730/Multi-Asset-Volatility-Correlation-Analysis/blob/main/Multi_Asset%20Volatility.ipynb)
+
 This project analyzes the price behavior, volatility patterns, return distributions, and correlations of major cryptocurrencies (BTC, ETH) against traditional equity indices (NSE & XIC). It highlights how different asset classes behave under varying market conditions and what this means for risk, diversification, and market behavior.
 
 ---
@@ -94,32 +96,17 @@ Spikes occur during:
 (Add files inside `/images` and these will display automatically)
 
 ### **Price Trends**
-![Price Trends](images/price_trends.png)
-
-### **Log Return Distribution**
-![Log Return Distribution](images/log_return_distribution.png)
+![Price Trends](https://github.com/Souvik2730/volume-price-anomaly-detection/blob/main/Screenshots/Screenshot%202025-11-16%20232404.png)
 
 ### **Correlation Heatmap**
-![Correlation Heatmap](images/correlation_heatmap.png)
-
-### **Rolling Volatility**
-![Rolling Volatility](images/rolling_volatility.png)
-
-### **BTC Price vs Volatility**
-![BTC Price vs Volatility](images/btc_price_volatility.png)
-
-### **Volatility Spikes**
-![Volatility Spikes](images/vol_spikes.png)
-
-### **Rolling Correlation**
-![Rolling Correlation](images/rolling_correlation.png)
+![Correlation Heatmap](https://github.com/Souvik2730/volume-price-anomaly-detection/blob/main/Screenshots/Screenshot%202025-11-16%20232731.png)
 
 ---
 
 ## ⚙️ How to Run the Project
 
 ### **Clone the Repository**
-git clone https://github.com/your-username/Multi-Asset-Volatility-Analysis.git
+git clone https://github.com/Souvik2730/Multi-Asset-Volatility-Correlation-Analysis
 
 ### **Install Dependencies**
 pip install -r requirements.txt
@@ -128,7 +115,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 Open:
-notebooks/volatility_correlation_analysis.ipynb
+Multi_Asset Volatility.ipynb
 
 ---
 
@@ -146,6 +133,7 @@ scipy
 
 ## 👤 Author
 **Souvik Ghorui**  
-*(Add GitHub/LinkedIn profile here)*
+*([Add GitHub] (https://github.com/Souvik2730)/[LinkedIn profile here](https://www.linkedin.com/in/souvik-ghorui273/))*
+
 
 
